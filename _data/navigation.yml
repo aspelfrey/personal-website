@@ -1,0 +1,10 @@
+- name: CV
+  link: /cv/
+- name: Projects
+  link: /#
+  dropdown:
+  - name: 3D Printing
+    link: /printing-3d/
+  - name: Calculus Activities
+    link: /calculus-activities/
+
