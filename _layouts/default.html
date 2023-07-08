@@ -16,6 +16,8 @@
  lang="{{ site.lang | default: 'en' }}"
  {% if site.fixed_navbar %}class="has-navbar-fixed-{{ site.fixed_navbar }}"{% endif %}>
   {% include head.html %}
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
   <body>
     {% include header.html %}
     {% unless page.hide_hero %}
@@ -42,11 +44,13 @@
                     {% include gallery.html %}
                     {{ content }}
                 </div>
+                <!--
                 {% if site.posts and page.show_sidebar %}
                 <div class="column is-4-desktop is-4-tablet">
                     {% include latest-posts.html %}
                 </div>
                 {% endif %}
+                -->
             </div>
         </div>
     </section>

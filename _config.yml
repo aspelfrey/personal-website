@@ -59,14 +59,11 @@ plugins:
 fixed_navbar: top
 permalink: pretty
 
-#use collections to process the product pages and output them as individual pages
+#use collections to process the product pages
+#to output them as individual pages set output: true
 collections:
-  #products: 
-  #  output: true
-  #  layout: product
-  #  show_sidebar: false
-  desmos: 
-    output: true
+  desmos-links: 
+    output: false
     layout: product
   printing-3d: 
     output: true
@@ -75,3 +72,8 @@ collections:
 assets:
     sources:
         - assets/images
+
+colors:
+  primary: "#188eac"
+  #default: "#188eac"
+  #example: "#dc132c

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: cv.html
-show_sidebar: true
 menubar_toc: true
-toc_title: Contents
 show_sidebar: false
+toc_title: Contents
 ---
 
 About me
