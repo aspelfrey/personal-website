@@ -7,11 +7,15 @@ show_sidebar: true
   {{ page.content }}
 </div>
 
-{% assign category_products = site.desmos-links | where: "category",page.category %}
+{% assign category_products = site.desmos-links | where: "category", page.category %}
 
 <!-- Get list and count of category activities and calculators -->
-{% assign activities = category_products| sort:page.sort | where: "type","activity" %}
+<!-- {% assign activities = category_products| sort:page.sort | where: "type","activity" %}
+{% assign activity_size = activities | size %} -->
+{% assign activities = site.data.desmos-courses.activities | sort:page.sort | where: "type","activity" %}
+{% assign activities = activities | where: "category",page.category %}
 {% assign activity_size = activities | size %}
+
 
 {% assign calculators = category_products| sort:page.sort | where: "type","calculator" %}
 {% assign calculator_size = calculators | size %}

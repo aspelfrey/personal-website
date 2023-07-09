@@ -4,4 +4,4 @@
 layout: page
 ---
 
-Testing
+{% include social-media-links.html %}

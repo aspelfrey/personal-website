@@ -9,3 +9,4 @@ hero_darken: true
 
 description: cite desmos, calcplot3d, cu boulder, mines
 
+{% include desmos-courses.html %}

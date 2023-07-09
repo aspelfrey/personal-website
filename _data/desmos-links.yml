@@ -1,0 +1,297 @@
+courses:
+  - single:
+    title: 'Single Variable Calculus'
+    href: '/desmos/desmos_single/'
+    image: '/assets/images/desmos_thumbnails/SC11_reimann_sums.png'
+
+  - multi:
+    title: 'Multivariable Calculus'
+    href: '/desmos/desmos_multi/'
+    image: '/assets/images/desmos_thumbnails/MA08_lagrange_multipliers.png'
+
+  - stats:
+    title: 'Statistics'
+    href: '/desmos/desmos_stats/'
+    image: '/assets/images/desmos_thumbnails/OC01_normal_dist.png'
+
+stats_calculators:
+  header: "Desmos Calculators"
+  cards:
+    - OC01_normal_dist:
+      title: Normal Distributions
+      image: /assets/images/desmos_thumbnails/OC01_normal_dist.png
+      link: https://www.desmos.com/calculator/gxlj3x1dtn
+      order: 1
+
+single_activities:
+  header: "Desmos Activties"
+  cards:
+    - SA1_sequences:
+      title: Sequences
+      image: /assets/images/desmos_thumbnails/SA1_sequences.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef01dc6a6cb55b16c0c0c?collections=649eec72f2170f472fb8c791
+      order: 1
+
+    - SA2_vector_functions:
+      title: Vector-valued Functions & Motion in Space
+      image: /assets/images/desmos_thumbnails/SA2_vector_functions.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649eece14b5a7ae35770d525?collections=649eec72f2170f472fb8c791
+      order: 2
+
+single_calculators:
+  header: "Desmos Calculators"
+  cards:
+    - SC1_alt_series:
+      title: Alternating Series Test
+      image: /assets/images/desmos_thumbnails/SC1_alt_series.png
+      link: https://www.desmos.com/calculator/tkkifuprpo
+      order: 1
+
+    - SC02_approx_func_poly:
+      title: Approximating Functions with Polynomials
+      image: /assets/images/desmos_thumbnails/SC02_approx_func_poly.png
+      link: https://www.desmos.com/calculator/0xiouhxotm
+      order: 2
+
+    - SC03_comp_test:
+      title: Comparison Test for Series
+      image: /assets/images/desmos_thumbnails/SC03_comp_test.png
+      link: https://www.desmos.com/calculator/sikfrvpcwo
+      order: 3
+    
+    - SC04_geo_series:
+      title: Geometric Series
+      image: /assets/images/desmos_thumbnails/SC04_geo_series.png
+      link: https://www.desmos.com/calculator/pynqre5kbq
+      order: 4
+
+    - SC05_int_test:
+      title: Integral Test for Series
+      image: /assets/images/desmos_thumbnails/SC05_int_test.png
+      link: https://www.desmos.com/calculator/nxceicn0ad
+      order: 5
+
+    - SC06_maclaurin_series:
+      title: Maclaurin Series
+      image: /assets/images/desmos_thumbnails/SC06_maclaurin_series.png
+      link: https://www.desmos.com/calculator/axkg1fi8le
+      order: 6
+      
+    - SC07_polar_curves:
+      title: Polar Curves
+      image: /assets/images/desmos_thumbnails/SC07_polar_curves.png
+      link: https://www.desmos.com/calculator/arys7rkqvk
+      order: 7
+      
+    - SC08_polar_scene:
+      title: Polar Bear Scene
+      image: /assets/images/desmos_thumbnails/SC08_polar_scene.png
+      link: https://www.desmos.com/calculator/jchaynxixc
+      order: 8
+
+    - SC09_pos_vel_accel:
+      title: Position, Velocity, & Acceleration
+      image: /assets/images/desmos_thumbnails/SC09_pos_vel_accel.png
+      link: https://www.desmos.com/calculator/2bdzecthvi
+      order: 9
+    
+    - SC10_power_series:
+      title: Power Series
+      image: /assets/images/desmos_thumbnails/SC10_power_series.png
+      link: https://www.desmos.com/calculator/kxfotgmrvs
+      order: 10
+      
+    - SC11_reimann_sums:
+      title: Reimann Sums
+      image: /assets/images/desmos_thumbnails/SC11_reimann_sums.png
+      link: https://www.desmos.com/calculator/iinrlwx5js
+      order: 11
+      
+    - SC12_secant_tangent:
+      title: Secant & Tangent Lines
+      image: /assets/images/desmos_thumbnails/SC12_secant_tangent.png
+      link: https://www.desmos.com/calculator/zyjh1pnphf
+      order: 12
+      
+    - SC13_seq_series:
+      title: Sequences & Series
+      image: /assets/images/desmos_thumbnails/SC13_seq_series.png
+      link: https://www.desmos.com/calculator/8uec5op2vj
+      order: 13
+
+
+multi_activities:
+  header: "Desmos Activities"
+  cards:
+    - MA00_tutorial:
+      title: 0 Desmos Tutorial
+      image: /assets/images/desmos_thumbnails/MA00_tutorial.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef03ab9249e9db0043a4b?collections=649eec72f2170f472fb8c791
+      order: 0
+
+    - MA01_quadric_surfaces:
+      title: 1 Cylinders and Quadric Surfaces
+      image: /assets/images/desmos_thumbnails/MA01_quadric_surfaces.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef049a477f89f209cf013?collections=649eec72f2170f472fb8c791
+      order: 1
+
+    - MA02_vector_functions:
+      title: 2 Vector-Valued Functions
+      image: /assets/images/desmos_thumbnails/MA02_vector_functions.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef05637af4d486dd31bb7?collections=649eec72f2170f472fb8c791
+      order: 2
+
+    - MA03_motion_space:
+      title: 3 Motion in Space
+      image: /assets/images/desmos_thumbnails/MA03_motion_space.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef06251dac8e8172d34e7?collections=649eec72f2170f472fb8c791
+      order: 3
+
+    - MA04_level_curves:
+      title: 4 Graphs and Level Curves
+      image: /assets/images/desmos_thumbnails/MA04_level_curves.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef072c836a59138da1ff6?collections=649eec72f2170f472fb8c791
+      order: 4
+    
+    - MA05_partial_derivatives:
+      title: 5 Partial Derivatives
+      image: /assets/images/desmos_thumbnails/MA05_partial_derivatives.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0839b58d552272da4f5?collections=649eec72f2170f472fb8c791
+      order: 5
+
+    - MA06_gradient:
+      title: 6 The Gradient and Directional Derivatives
+      image: /assets/images/desmos_thumbnails/MA06_gradient.png
+      link: https://teacher.desmos.com/activitybuilder/custom/64a0a0c10420555644f6da84?collections=649eec72f2170f472fb8c791
+      order: 6
+
+    - MA07_tangent_planes:
+      title: 7 Tangent Planes and Linear Approximations
+      image: /assets/images/desmos_thumbnails/MA07_tangent_planes.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0ada94fda57dadecca2?collections=649eec72f2170f472fb8c791
+      order: 7
+
+    - MA08_lagrange_multipliers:      
+      title: 8 Lagrange Multipliers
+      image: /assets/images/desmos_thumbnails/MA08_lagrange_multipliers.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0bd9f6503f76d932517?collections=649eec72f2170f472fb8c791
+      order: 8
+
+    - MA09_double_int_rect:
+      title: 9 Double Integrals over Rectangular Regions
+      image: /assets/images/desmos_thumbnails/MA09_double_int_rect.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0d4a477f89f209cf018?collections=649eec72f2170f472fb8c791
+      order: 9
+
+    - MA10_double_int_general:
+      title: 10 Double Integrals Over General Regions
+      image: /assets/images/desmos_thumbnails/MA10_double_int_general.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0e1acf42d9a7ad6ab3f?collections=649eec72f2170f472fb8c791
+      order: 10
+    
+    - MA11_double_int_polar:
+      title: 11 Double Integrals Over Polar Regions
+      image: /assets/images/desmos_thumbnails/MA11_double_int_polar.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0ef53cbdaa5dd55b76c?collections=649eec72f2170f472fb8c791
+      order: 11
+
+    - MA12_triple_integrals:
+      title: 12 Triple Integrals
+      image: /assets/images/desmos_thumbnails/MA12_triple_integrals.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0fc770f012122ac7526?collections=649eec72f2170f472fb8c791
+      order: 12
+
+    - MA13_change_variables:
+      title: 13 Change of Variables
+      image: /assets/images/desmos_thumbnails/MA13_change_variables.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef1105e4f3239857eb93d?collections=649eec72f2170f472fb8c791
+      order: 13
+      
+    - MA14_vector_fields:
+      title: 14 Vector Fields
+      image: /assets/images/desmos_thumbnails/MA14_vector_fields.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649f46fbfc4224034ecf2a90?collections=649eec72f2170f472fb8c791
+      order: 14
+    
+    - MA15_line_integrals:
+      title: 15 Line Integrals
+      image: /assets/images/desmos_thumbnails/MA15_line_integrals.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649f538cb353e4bcb2306bcd?collections=649eec72f2170f472fb8c791
+      order: 15
+    
+    - MA16_div_curl:
+      title: 16 Divergence and Curl
+      image: /assets/images/desmos_thumbnails/MA16_div_curl.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649f470d2faf4237f51c3a8a?collections=649eec72f2170f472fb8c791
+      order: 16
+    
+    - MA17_surface_param:
+      title: 17 Surface Parameterizations
+      image: /assets/images/desmos_thumbnails/MA17_surface_param.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649f4723c983cdf64b8ba2c0?collections=649eec72f2170f472fb8c791
+      order: 17
+
+    - MA18_flowchart_int:
+      title: 18 Flowcharts for Line and Surface Integrals
+      image: /assets/images/desmos_thumbnails/MA18_flowchart_int.png
+      link: https://teacher.desmos.com/activitybuilder/custom/64a0a037117843ee64e15d58?collections=649eec72f2170f472fb8c791
+      order: 18
+
+
+multi_calculators:
+  header: "Desmos Calculators"
+  cards:
+    - MC1_curl:
+      title: Curl of a Vector Field
+      image: /assets/images/desmos_thumbnails/MC1_curl.png
+      link: https://www.desmos.com/calculator/fm4o155jud
+      order: 1
+
+    - MC2_dir_derivatives:
+      title: Directional Derivatives
+      image: /assets/images/desmos_thumbnails/MC2_dir_derivatives.png
+      link: https://www.desmos.com/calculator/r2q8gjfxdx
+      order: 2
+     
+    - MC3_divergence:
+      title: Divergence of a Vector Field
+      image: /assets/images/desmos_thumbnails/MC3_divergence.png
+      link: https://www.desmos.com/calculator/ett2vubdh4
+      order: 3
+    
+    - MC4_gradient:
+      title: Gradient
+      image: /assets/images/desmos_thumbnails/MC4_gradient.png
+      link: https://www.desmos.com/calculator/riz6agv5pn
+      order: 4
+      
+    - MC5_line_integrals_1:
+      title: Line Integrals 1
+      image: /assets/images/desmos_thumbnails/MC5_line_integrals_1.png
+      link: https://www.desmos.com/calculator/brbx3r6kxy
+      order: 5
+      
+    - MC6_line_integrals_2:
+      title: Line Integrals 2
+      image: /assets/images/desmos_thumbnails/MC6_line_integrals_2.png
+      link: https://www.desmos.com/calculator/867u32z6te
+      order: 6
+      
+    - MC7_param_curves:
+      title: Parametric Curves
+      image: /assets/images/desmos_thumbnails/MC7_param_curves.png
+      link: https://www.desmos.com/calculator/yudnpsprew
+      order: 7
+      
+    - MC8_param_curves_animated:
+      title: Parametric Curves Animated
+      image: /assets/images/desmos_thumbnails/MC8_param_curves_animated.png
+      link: https://www.desmos.com/calculator/q93k6dbise
+      order: 8
+    
+    - MC9_traces:
+      title: Traces
+      image: /assets/images/desmos_thumbnails/MC9_traces.png
+      link: https://www.desmos.com/calculator/96cucvgoys
+      order: 9
+
