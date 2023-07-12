@@ -1,7 +1,7 @@
 - name: CV
   link: /cv/
 - name: Projects
-  link: /#
+  #link: /#
   dropdown:
   - name: 3D Printing
     link: /printing-3d/

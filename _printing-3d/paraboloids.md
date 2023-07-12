@@ -11,4 +11,4 @@ order: 2
 menubar: printing_3d_menu
 ---
 
-This is the content about the product.
+These lecture models illustrate the disk and shell methods for integrating a paraboloid. The disks require a small magnet to be inserted mid-print to keep the disks centered along the vertical axis. 
