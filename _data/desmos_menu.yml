@@ -1,0 +1,8 @@
+- label: Courses
+  items:
+    - name: Single Variable Calculus
+      link: /desmos/desmos_single/
+    - name: Multivariable Calculus
+      link: /desmos/desmos_multi/
+    - name: Statistics
+      link: /desmos/desmos_stats/

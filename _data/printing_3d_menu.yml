@@ -1,0 +1,10 @@
+- label: 3D Printing
+  items:
+    - name: Volumes with Known Cross-sections
+      link: /printing-3d/volumes/
+    - name: Integration Methods
+      link: /printing-3d/paraboloids/
+    - name: Cylinders
+      link: /printing-3d/cylinders/
+    - name: Quadric Surfaces
+      link: /printing-3d/quadric_surfaces/
