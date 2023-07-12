@@ -1,7 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: page
+layout: home
+title: Athena Sparks Pelfrey
+image: /assets/images/Profile_Pic.jpeg
 ---
 
-{% include social-media-links.html %}
+About me
+<h2> {% include social-media-links.html %} </h2>
+
+<!-- <br>
+About Website -->

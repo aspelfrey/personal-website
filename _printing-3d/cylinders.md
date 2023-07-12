@@ -14,4 +14,4 @@ order: 3
 menubar: printing_3d_menu
 ---
 
-This is the content about the product.
+This set of cylinders includes an elliptic cylinder, a hyperbolic cylinder, and a parabolic cylinder. The models stand roughly 6 inches tall each. See the [Instructions for Creating STL Files]({{ site.url }}/assets/files/GuideToSurfaces.pdf){:target="_blank"} for information on how these models where developed using [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html){:target="_blank"} .
