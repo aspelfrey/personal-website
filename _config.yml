@@ -58,6 +58,8 @@ plugins:
 
 fixed_navbar: top
 permalink: pretty
+footer_menu: footer_menu
+
 
 #use collections to process the product pages
 #to output them as individual pages set output: true

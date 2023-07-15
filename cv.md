@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: cv.html
+#permalink: cv.html
 menubar_toc: true
 show_sidebar: false
 toc_title: Contents

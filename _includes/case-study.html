@@ -1,0 +1,21 @@
+<div> 
+    {% assign studies = site.data.case-studies %}
+    {% for study in studies %}
+        <h2> {{study.title}} </h2>
+
+        <p> 
+            {{study.description}}
+            <br>
+            <br>
+            <a href="{{study.link}}" target="_blank"> {{study.link_text}}</a>
+            <h5> Contents: </h5>
+            {% for item in study.contents %}
+                <li> {{ item }} </li>
+            {% endfor %}
+        </p>
+        <br>
+        {% for tag in study.tags %}
+            {% include tag.html tag=tag %}
+        {% endfor %}
+    {% endfor %}
+</div>

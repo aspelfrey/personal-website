@@ -1,0 +1,18 @@
+- bike_users:
+  title: "Bike Share Company Customer Usage"
+  tags:
+    - Python
+    - R
+    - Data Cleaning
+    - Data Analysis
+    - Data Visualization
+    - Presentation
+  description: "This case study was the final assignment in course <em>Google Data Analytics Capstone: Complete a Case Study</em>, the last course in the Google Data Analytics Professional Certificate program."
+  link: https://github.com/aspelfrey/case-study-bike-share/
+  link_text: Bike Share Project on GitHub
+  contents:
+    - PowerPoint Presentation with summary of analysis and recommendations.
+    - Data analysis completed in R notebook.
+    - Data analysis (repeated) with Python in a Jupyter notebook.
+
+
