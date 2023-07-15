@@ -1,6 +1,5 @@
 ---
-title: 3D Printing
-subtitle: "Integration Methods: Volume of a paraboloid"
+title: "Integration Methods: Volume of a paraboloid"
 layout: product
 image: "/assets/images/printing-3d/Paraboloids_Stacked_Preview.png"
 features:

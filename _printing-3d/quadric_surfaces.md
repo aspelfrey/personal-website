@@ -1,6 +1,5 @@
 ---
-title: 3D Printing
-subtitle: Quadric Surfaces
+title: Quadric Surfaces
 layout: product
 image: /assets/images/printing-3d/quadric_surfaces_2.png
 features:

@@ -1,10 +1,7 @@
 ---
-title: 3D Printing
-subtitle: Volumes with Known Cross-sections
-#product_code: ABC123
+title: Volumes with Known Cross-sections
 layout: product
-image: /assets/images/printing-3d/KnownCrossSections_Preview.png
-#price: £0.99 + VAT
+image: /assets/images/printing-3d/KnownCrossSections.png
 features:
     - label: Download STL Files
       icon: fa-download
@@ -15,7 +12,6 @@ features:
     - label: Activity LaTeX
       icon: fa-file-text-o
       link: /assets/files/VolumesWithKnownCrossSections.zip
-
 order: 1
 menubar: printing_3d_menu
 ---

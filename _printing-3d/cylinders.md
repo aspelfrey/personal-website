@@ -1,6 +1,5 @@
 ---
-title: 3D Printing
-subtitle: Cylinders
+title: Cylinders
 layout: product
 image: /assets/images/printing-3d/cylinders.png
 features:
