@@ -16,4 +16,4 @@ order: 1
 menubar: printing_3d_menu
 ---
 
-These models accompany an activity on integrating volumes with known cross-sections. The links to the activity are given above. 
+These models accompany an activity on integrating volumes with known cross-sections. The links to the activity are given above.
