@@ -11,8 +11,9 @@
   link: https://github.com/aspelfrey/case-study-bike-share/
   link_text: Bike Share Project on GitHub
   contents:
-    - PowerPoint Presentation with summary of analysis and recommendations.
+    - PowerPoint presentation with summary of analysis and recommendations.
     - Data analysis completed in R notebook.
     - Data analysis (repeated) with Python in a Jupyter notebook.
+  image: /assets/images/BikeShare_Image.png
 
 
