@@ -5,7 +5,16 @@ title: Curriculum Vitae
 menubar_toc: true
 show_sidebar: false
 toc_title: Contents
+back-to-top: true
 ---
+
+<!-- <script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  textColor: '#fff'
+})</script>
+ -->
+
 
 About me
 
@@ -30,6 +39,10 @@ About me
 | B.A. Mathematics                        | 2011                      |
 | Graduated cum laude and with honors. Minored in Classical Studies. ||
 
+<form action="#top">
+    <button type="submit">Back to Top</button>
+</form>
+
 
 ## Certificates
 [expand]
@@ -45,6 +58,10 @@ Test expand text
 | :------------------------------ | -----: |
 | University of Colorado Boulder  | 2019   |
 | Requirements for this certificate included attending 20 Graduate Teacher Program workshops, a faculty observation, two videotape classroom consultations, two semesters of classroom teaching and preparing a teaching portfolio. ||
+
+<form action="#top">
+    <button type="submit">Back to Top</button>
+</form>
 
 ## Technical Skills
 
