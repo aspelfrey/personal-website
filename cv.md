@@ -8,14 +8,6 @@ toc_title: Contents
 back-to-top: true
 ---
 
-<!-- <script src="/assets/js/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  diameter: 56,
-  textColor: '#fff'
-})</script>
- -->
-
-
 About me
 
 
@@ -39,11 +31,6 @@ About me
 | B.A. Mathematics                        | 2011                      |
 | Graduated cum laude and with honors. Minored in Classical Studies. ||
 
-<form action="#top">
-    <button type="submit">Back to Top</button>
-</form>
-
-
 ## Certificates
 [expand]
 Test expand text
@@ -58,10 +45,6 @@ Test expand text
 | :------------------------------ | -----: |
 | University of Colorado Boulder  | 2019   |
 | Requirements for this certificate included attending 20 Graduate Teacher Program workshops, a faculty observation, two videotape classroom consultations, two semesters of classroom teaching and preparing a teaching portfolio. ||
-
-<form action="#top">
-    <button type="submit">Back to Top</button>
-</form>
 
 ## Technical Skills
 
@@ -162,7 +145,7 @@ Test expand text
 | Co-advisor for a REU/G              | &nbsp;        |
 | :--------- ------------------------ | ------------: |
 | University of Colorado Boulder      | Summer 2019   |
-| Collaborated with Dr. Peter Mayr to advise three undergraduate students and one first-year graduate student with a 5 week summer project where we investigated the computational complexity of Promise Constraint Satisfaction Problems. The students will be presenting a poster at the world’s largest math meeting, the Joint Mathematics Meeting 2020 in Denver and are in the process of writing up their results for future publication. ||
+| Collaborated with Dr. Peter Mayr to advise three undergraduate students and one first-year graduate student with a 5 week summer project where we investigated the computational complexity of Promise Constraint Satisfaction Problems. The students presented a poster at the world’s largest math meeting, the Joint Mathematics Meeting 2020 in Denver and are in the process of writing up their results for future publication. ||
 
 | Mentor for JPL Summer Interns                                        | &nbsp;        | 
 | :--------------------------------------------------------------  | ------------: |
