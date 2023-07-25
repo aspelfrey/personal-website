@@ -5,6 +5,7 @@ title: Curriculum Vitae
 menubar_toc: true
 show_sidebar: false
 toc_title: Contents
+back-to-top: true
 ---
 
 About me
@@ -29,7 +30,6 @@ About me
 | :-------------------------------------- | ------------------------: |
 | B.A. Mathematics                        | 2011                      |
 | Graduated cum laude and with honors. Minored in Classical Studies. ||
-
 
 ## Certificates
 [expand]
@@ -145,7 +145,7 @@ Test expand text
 | Co-advisor for a REU/G              | &nbsp;        |
 | :--------- ------------------------ | ------------: |
 | University of Colorado Boulder      | Summer 2019   |
-| Collaborated with Dr. Peter Mayr to advise three undergraduate students and one first-year graduate student with a 5 week summer project where we investigated the computational complexity of Promise Constraint Satisfaction Problems. The students will be presenting a poster at the world’s largest math meeting, the Joint Mathematics Meeting 2020 in Denver and are in the process of writing up their results for future publication. ||
+| Collaborated with Dr. Peter Mayr to advise three undergraduate students and one first-year graduate student with a 5 week summer project where we investigated the computational complexity of Promise Constraint Satisfaction Problems. The students presented a poster at the world’s largest math meeting, the Joint Mathematics Meeting 2020 in Denver and are in the process of writing up their results for future publication. ||
 
 | Mentor for JPL Summer Interns                                        | &nbsp;        | 
 | :--------------------------------------------------------------  | ------------: |
