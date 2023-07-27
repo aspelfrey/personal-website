@@ -67,20 +67,20 @@ Test expand text
 
 |  University of Colorado Boulder                  | &nbsp; |
 | :----------------------------------------------- | -----: |
-| _Doctoral Research_                              | 2016-2020 \ 
-| Department of Mathematics                        |\
+| _Doctoral Research_                              | 2016-2020 | 
+| Department of Mathematics                        ||
 | Research Advisor: Dr. Peter Mayr                 ||
 | Investigated the number of clonoids and their applications to the computational complexity of Promise Constraint Satisfaction Problems.                  ||
 |||
-| _First-Year Graduate Student Research_           | Summer 2015 \
-| Department of Mathematics                        |\
+| _First-Year Graduate Student Research_           | Summer 2015 |
+| Department of Mathematics                        ||
 | Research Advisor: Dr. Nathaniel Thiem            ||
 | Examined random walks on unipotent matrix groups.||
 
 | California State University, Northridge          | &nbsp; |
 | :----------------------------------------------- | -----: |
-| _Master’s Research_                              | 2016-2020 \ 
-| Department of Mathematics                        |\
+| _Master’s Research_                              | 2016-2020 |
+| Department of Mathematics                        ||
 | Research Advisor: Dr. Silvia Fernández-Merchant  ||
 | Determined the crossing number of a cylindrical drawing of a complete bipartite graph. ||
 
@@ -88,7 +88,7 @@ Test expand text
 
 | Data Analyst/Academic Part-Time Employee                | &nbsp; |
 | :------------------------------------------------------ | -----: |
-| Jet Propulsion Laboratory                               | 2010-2014 \
+| Jet Propulsion Laboratory                               | 2010-2014 |
 | California Institute of Technology Pasadena, California ||
 | Developed an SQL database for measurements from various atmospheric remote sensing instruments for the Global Change and Energy Program. Provided graphical and statistical analysis with Python of data from various instruments across the Los Angeles basin area for the Earth Science and Technology Directorate. ||
 
@@ -133,7 +133,7 @@ Test expand text
 
 | Graduate Student Representative                | &nbsp; |
 | :--------------------------------------------- | -----: |
-| University of Colorado Boulder                 | 2017-2019 \
+| University of Colorado Boulder                 | 2017-2019 |
 | Mathematics Department Graduate Committee      | |
 | Communicated concerns between the committee and the graduate students. Worked with the committee to set expectations regarding the timeline of administering and grading preliminary exams, to update the graduate program website, and to formalize the role and compensation of the graduate student representatives. ||
 
