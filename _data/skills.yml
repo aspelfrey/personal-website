@@ -1,0 +1,10 @@
+- name: Excel
+  rating: 5
+- name: Python
+  rating: 4
+- name: R
+  rating: 3
+- name: SQL
+  rating: 3
+
+

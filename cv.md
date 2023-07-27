@@ -8,9 +8,6 @@ toc_title: Contents
 back-to-top: true
 ---
 
-About me
-
-
 ## Education
 
 | University of Colorado Boulder    | Boulder, Colorado               |
