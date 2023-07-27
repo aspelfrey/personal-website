@@ -1,7 +1,7 @@
 ---
 title: "Integration Methods: Volume of a paraboloid"
 layout: product
-image: "/assets/images/printing-3d/Paraboloids_Stacked_Preview.png"
+image: "/assets/images/printing-3d/paraboloids.png"
 features:
     - label: Download STL Files
       icon: fa-download
