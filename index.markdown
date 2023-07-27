@@ -1,14 +1,19 @@
 ---
 layout: home
 title: Athena Sparks Pelfrey
+# subtitle: "{% include social-media-links.html %}"
 image: /assets/images/Profile_Pic.jpeg
+social_media: true
+# hero_link_text: The Link Text
+
 ---
 
 I am a former professor of mathematics looking to transition from academia to industry as a data scientist. I am experienced in developing research questions, collecting and analyzing data, and producing insights based on data analysis. I am skilled in data visualization and database development with a proven ability to communicate effectively with technical and non-technical audiences. I am open to new opportunities (remote or based in the Denver area) that allow me to continue to learn and bring my expertise to a collaborative and outcome-driven team.
 
-<h2> {% include social-media-links.html %} </h2>
 
-<script src="/assets/js/meter-discrete.js" type="module"></script>
+
+<!-- Set up for skills ranking -->
+<!-- <script src="/assets/js/meter-discrete.js" type="module"></script>
 
 <style>
 #minimal_rating::part(value),
@@ -28,4 +33,4 @@ I am a former professor of mathematics looking to transition from academia to in
 {%- endfor -%}
 
 
-
+ -->
