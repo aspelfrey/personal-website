@@ -29,14 +29,11 @@ back-to-top: true
 | Graduated cum laude and with honors. Minored in Classical Studies. ||
 
 ## Certificates
-[expand]
-Test expand text
-[/expand]
 
 | Google Data Analytics Professional Certificate | &nbsp; |
 | :--------------------------------------------- | -----: |
 | Coursera                                       | 2023   |
-| Completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.||
+| Completed eight courses, developed by Google, on preparing, processing, analyzing, and sharing data for thoughtful action as well as using tools and platforms including spreadsheets, SQL, Tableau, and R.||
 
 | Certificate in College Teaching | &nbsp; |
 | :------------------------------ | -----: |
@@ -171,6 +168,10 @@ A. Sparks, C. Frankenberg, G. Osterman, A. Butz, D. Schepers, J. Landgraf, D. Wu
 Grant for research and development of 3D-printed models for use in calculus courses provided by ASSETT (Arts and Sciences Support of Education Through Technology) at the University of Colorado Boulder in 2015.
 
 ## Talks and Presentations
+
+A. Sparks. Desmos Activities for Calculus. Presented at the Professional Learning Community meeting at Colorado School of Mines; September 28, 2022; Golden, CO.
+
+A. Sparks. Online Activities for In-person or Remote Multivariable Calculus Courses. Presented and ran a workshop at the SIGMAA IBL Fall Speaker Series 2022; August 25, 2022; Via Zoom.
 
 A. Sparks. Clonoids into Finite Target Algebras without Cube Terms. Invited speaker at Joint Mathematics Meetings, AMS Special Session on Algebras and Algorithms; January 15, 2020; Denver, CO.
 
