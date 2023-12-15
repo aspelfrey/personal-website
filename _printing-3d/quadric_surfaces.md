@@ -5,7 +5,7 @@ image: /assets/images/printing-3d/quadric_surfaces_2.png
 features:
     - label: Download STL Files
       icon: fa-download
-      link: /assets/files/printing-3d/quadric_surfaces_stl.zip
+      link: /assets/files/quadric_surfaces_stl.zip
     - label: Instructions for Creating STL Files
       icon: fa-file-pdf-o
       link: /assets/files/GuideToSurfaces.pdf
