@@ -5,7 +5,7 @@ image: "/assets/images/printing-3d/paraboloids.png"
 features:
     - label: Download STL Files
       icon: fa-download
-      link: /404.html
+      link: /assets/files/Paraboloids_STL.zip
 order: 2
 menubar: printing_3d_menu
 ---
