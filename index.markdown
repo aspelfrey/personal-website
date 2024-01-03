@@ -8,9 +8,13 @@ social_media: true
 
 ---
 
-I am a former professor of mathematics looking to transition from academia to industry as a data scientist. I am experienced in developing research questions, collecting and analyzing data, and producing insights based on data analysis. I am skilled in data visualization and database development with a proven ability to communicate effectively with technical and non-technical audiences. I am open to new opportunities (remote or based in the Denver area) that allow me to continue to learn and bring my expertise to a collaborative and outcome-driven team.
+I am a former professor of mathematics looking to transition from academia to industry. 
+I am skilled in developing research questions, collecting and analyzing data, producing insights based on data analysis, and data visualization. As an instructor, I have refined my ability to communicate effectively with technical and non-technical audiences and have excelled in course development and classroom management. I am experienced in running workshops, coordinating teams, conflict resolution, and developing documentation and reports.  I am open to new opportunities (remote or based in the Denver area) that allow me to continue to learn and bring my expertise to a collaborative team.
 
 
+<a href="https://linkedin.com/in/athenasparkspelfrey" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square fa-lg"></i>&nbsp;{{ 'LinkedIn' }}&nbsp;</a>
+&nbsp;
+<a href="https://github.com/aspelfrey" target="_blank" title="GitHub"><i class="fa fa-github-square fa-lg"></i>&nbsp;{{ 'GitHub' }}&nbsp;</a>
 
 <!-- Set up for skills ranking -->
 <!-- <script src="/assets/js/meter-discrete.js" type="module"></script>

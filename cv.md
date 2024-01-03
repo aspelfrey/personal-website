@@ -42,8 +42,9 @@ back-to-top: true
 
 ## Technical Skills
 
-* Programming: Python, R, SQL
+* Programming: Python, R, SQL, LaTeX
 * Data Visualization: Excel, Tableau
+* Project Management: Jira, Asana, Slack
 * Version Control: Git
 * Learning Management Systems: Canvas, Desire2Learn
 * Online Learning Platforms: Desmos, Gradescope, Cengage WebAssign, Pearson MyLab Math
