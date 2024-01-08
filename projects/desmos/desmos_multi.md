@@ -1,13 +1,13 @@
 ---
 title: Desmos Activities & Calculators
-subtitle: Multivariable Calculus
 layout: page
+show_sidebar: false
 back-to-top: true
 ---
 
-I collaborated with the Applied Mathematics and Statistics Department at the Colorado School of Mines to develop these activities and calculators using [Desmos](https://www.desmos.com/) and [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html) for the multivariable calculus course.
+I developed these activities and calculators using [Desmos](https://www.desmos.com/) and [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html) for various courses at the University of Colorado Boulder and the Colorado School of Mines.
 
-[Switch Course]({{site.url}}/projects/desmos/)
+{% include desmos-tabs.html %}
 
 {% include cards.html collection=site.data.desmos_links.multi_activities %}
 

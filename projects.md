@@ -14,3 +14,4 @@ A preview of the case studies and other projects I have worked on can be found o
 
 ## [Desmos Activities](/projects/desmos)
 I developed activities and calculators using Desmos and CalcPlot3D for various courses at the University of Colorado Boulder and the Colorado School of Mines.
+

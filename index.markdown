@@ -12,6 +12,7 @@ I am a former professor of mathematics looking to transition from academia to in
 I am skilled in developing research questions, collecting and analyzing data, producing insights based on data analysis, and data visualization. As an instructor, I have refined my ability to communicate effectively with technical and non-technical audiences and have excelled in course development and classroom management. I am experienced in running workshops, coordinating teams, conflict resolution, and developing documentation and reports.  I am open to new opportunities (remote or based in the Denver area) that allow me to continue to learn and bring my expertise to a collaborative team.
 
 
+
 <a href="https://linkedin.com/in/athenasparkspelfrey" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square fa-lg"></i>&nbsp;{{ 'LinkedIn' }}&nbsp;</a>
 &nbsp;
 <a href="https://github.com/aspelfrey" target="_blank" title="GitHub"><i class="fa fa-github-square fa-lg"></i>&nbsp;{{ 'GitHub' }}&nbsp;</a>
