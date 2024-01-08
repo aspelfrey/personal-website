@@ -24,7 +24,7 @@ stats_calculators:
       order: 1
 
 single_activities:
-  header: "Desmos Activties"
+  header: "Desmos Activities"
   cards:
     - SA1_sequences:
       title: Sequences

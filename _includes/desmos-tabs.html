@@ -1,0 +1,30 @@
+{% assign tabs = site.data.desmos_tabs %}
+
+<style>    
+    /* Responsive layout - makes a one column-layout instead of two-column layout */
+    @media (max-width: 800px) {
+      .flex-container {
+        flex-direction: column;
+      }
+    }
+    </style>
+
+<div class=" flex-container tabs {% if tabs.size %}{{ tabs.size }}{% endif %} {% if tabs.alignment %}{{ tabs.alignment }}{% endif %} {% if tabs.style %}{{ tabs.style }}{% endif %}">
+    <!-- <style>
+        ul {
+            flex-direction: column;
+    }
+    </style> -->
+    <ul>
+    {% for tab in tabs.items %}
+        <li {% if tab.link == page.url %} class="is-active" {% endif %}>
+            <a href="{{ tab.link | relative_url }}">
+                {% if tab.icon %}
+                <span class="icon is-small"><i class="fas {{ tab.icon }}" aria-hidden="true"></i></span>
+                {% endif %}
+                <span>{{ tab.name }}</span>
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
