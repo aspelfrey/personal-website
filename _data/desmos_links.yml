@@ -14,6 +14,34 @@ courses:
     href: '/projects/desmos/desmos_stats/'
     image: '/assets/images/desmos_thumbnails/OC01_normal_dist.png'
 
+
+favorites:
+  header: "Favorites"
+  cards:
+    - SC05_int_test:
+      title: Integral Test for Series
+      image: /assets/images/desmos_thumbnails/SC05_int_test.png
+      link: https://www.desmos.com/calculator/nxceicn0ad
+      order: 1
+    - MC1_curl:
+      title: Curl of a Vector Field
+      image: /assets/images/desmos_thumbnails/MC1_curl.png
+      link: https://www.desmos.com/calculator/fm4o155jud
+      order: 2
+
+    - MA12_triple_integrals:
+      title: 12 Triple Integrals
+      image: /assets/images/desmos_thumbnails/MA12_triple_integrals.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef0fc770f012122ac7526?collections=649eec72f2170f472fb8c791
+      order: 3
+
+    - MA06_gradient:
+      title: 6 The Gradient and Directional Derivatives
+      image: /assets/images/desmos_thumbnails/MA06_gradient.png
+      link: https://teacher.desmos.com/activitybuilder/custom/64a0a0c10420555644f6da84?collections=649eec72f2170f472fb8c791
+      order: 4
+
+
 stats_calculators:
   header: "Desmos Calculators"
   cards:
