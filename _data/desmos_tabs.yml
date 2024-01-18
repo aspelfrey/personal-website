@@ -2,7 +2,9 @@ alignment: is-left
 style: is-boxed
 size: is-medium
 items:
-  - name: Single Variable Calulus
+  - name: Favorites
+    link: /projects/desmos/
+  - name: Single Variable Calculus
     link: /projects/desmos/desmos_single/
   - name: Multivariable Calculus
     link: /projects/desmos/desmos_multi/

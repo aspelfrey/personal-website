@@ -3,6 +3,9 @@ title: Desmos Activities & Calculators
 layout: page
 show_sidebar: false
 back-to-top: true
+hero_image: /assets/images/desmos_thumbnails/desmos_calcplot3d.png
+hero_darken: true
+
 ---
 
 
