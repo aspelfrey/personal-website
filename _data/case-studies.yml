@@ -1,3 +1,15 @@
+- grades_dashboard:
+  title: "Course Grades Dashboard"
+  tags:
+    - Tableau
+    - Data Visualization
+    - Data Exploration
+    - Presentation
+  description: "Tableau dashboard used for data exploration of final course grades."
+  link: https://public.tableau.com/views/CourseGrades_17059506760090/GradeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link 
+  link_text: Course Grades Dashboard on Tableau
+  image: /assets/images/CourseGrades_Dashboard.png
+
 - bike_users:
   title: "Bike Share Company Customer Usage"
   tags:
