@@ -4,7 +4,8 @@ title: "Case Studies"
 menubar_toc: true
 show_sidebar: false
 toc_title: Contents
+back-to-top: true
 ---
 
-{% include case-study.html %}
+{% include case-studies.html %}
 
