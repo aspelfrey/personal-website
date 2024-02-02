@@ -18,27 +18,28 @@ courses:
 favorites:
   header: "Favorites"
   cards:
-    - SC05_int_test:
-      title: Integral Test for Series
-      image: /assets/images/desmos_thumbnails/SC05_int_test.png
-      link: https://www.desmos.com/calculator/nxceicn0ad
-      order: 1
-    - MC1_curl:
-      title: Curl of a Vector Field
-      image: /assets/images/desmos_thumbnails/MC1_curl.png
-      link: https://www.desmos.com/calculator/fm4o155jud
-      order: 2
-
     - MA12_triple_integrals:
       title: 12 Triple Integrals
       image: /assets/images/desmos_thumbnails/MA12_triple_integrals.png
       link: https://teacher.desmos.com/activitybuilder/custom/649ef0fc770f012122ac7526?collections=649eec72f2170f472fb8c791
-      order: 3
+      order: 1
 
     - MA06_gradient:
       title: 6 The Gradient and Directional Derivatives
       image: /assets/images/desmos_thumbnails/MA06_gradient.png
       link: https://teacher.desmos.com/activitybuilder/custom/64a0a0c10420555644f6da84?collections=649eec72f2170f472fb8c791
+      order: 2
+      
+    - SC05_int_test:
+      title: Integral Test for Series
+      image: /assets/images/desmos_thumbnails/SC05_int_test.png
+      link: https://www.desmos.com/calculator/nxceicn0ad
+      order: 3
+
+    - MC1_curl:
+      title: Curl of a Vector Field
+      image: /assets/images/desmos_thumbnails/MC1_curl.png
+      link: https://www.desmos.com/calculator/fm4o155jud
       order: 4
 
 
@@ -151,12 +152,6 @@ single_calculators:
 multi_activities:
   header: "Desmos Activities"
   cards:
-    - MA00_tutorial:
-      title: 0 Desmos Tutorial
-      image: /assets/images/desmos_thumbnails/MA00_tutorial.png
-      link: https://teacher.desmos.com/activitybuilder/custom/649ef03ab9249e9db0043a4b?collections=649eec72f2170f472fb8c791
-      order: 0
-
     - MA01_quadric_surfaces:
       title: 1 Cylinders and Quadric Surfaces
       image: /assets/images/desmos_thumbnails/MA01_quadric_surfaces.png
@@ -264,6 +259,12 @@ multi_activities:
       image: /assets/images/desmos_thumbnails/MA18_flowchart_int.png
       link: https://teacher.desmos.com/activitybuilder/custom/64a0a037117843ee64e15d58?collections=649eec72f2170f472fb8c791
       order: 18
+    
+    - MA00_tutorial:
+      title: 0 Desmos Tutorial
+      image: /assets/images/desmos_thumbnails/MA00_tutorial.png
+      link: https://teacher.desmos.com/activitybuilder/custom/649ef03ab9249e9db0043a4b?collections=649eec72f2170f472fb8c791
+      order: 19
 
 
 multi_calculators:

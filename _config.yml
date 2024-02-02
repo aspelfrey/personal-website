@@ -57,6 +57,7 @@ plugins:
 #   - vendor/ruby/
 
 fixed_navbar: top
+social_nav: true
 permalink: pretty
 footer_menu: footer_menu
 

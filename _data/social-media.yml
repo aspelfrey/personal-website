@@ -1,11 +1,13 @@
-linkedin:
+- linkedin:
   id: 'in/athenasparkspelfrey'
   href: 'https://linkedin.com/'
   #title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
+  link: 'https://linkedin.com/in/athenasparkspelfrey'
   
-github:
+- github:
   id: 'aspelfrey'
   href: 'https://github.com/'
   #title: 'GitHub'
   fa-icon: 'fa-github-square'
+  link: 'https://github.com/aspelfrey'
