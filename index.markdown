@@ -13,7 +13,7 @@ I am skilled in developing research questions, collecting and analyzing data, pr
 
 
 
-<a href="https://linkedin.com/in/athenasparkspelfrey" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square fa-lg"></i>&nbsp;{{ 'LinkedIn' }}&nbsp;</a>
+<a href="https://linkedin.com/in/aspelfrey" target="_blank" title="LinkedIn"><i class="fa fa-linkedin-square fa-lg"></i>&nbsp;{{ 'LinkedIn' }}&nbsp;</a>
 &nbsp;
 <a href="https://github.com/aspelfrey" target="_blank" title="GitHub"><i class="fa fa-github-square fa-lg"></i>&nbsp;{{ 'GitHub' }}&nbsp;</a>
 
